@@ -4,4 +4,5 @@ This python code is web crawler which fetch data from https://www.mohfw.gov.in/ 
 You can modify the code and change the notification settings like title, time interval between notifications, etc.
 
 Learn new things everyday.
+
 Happy Coding!
