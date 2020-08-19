@@ -3,7 +3,6 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
-
 def notifyme(title, message):
     notification.notify(
         title=title,
