@@ -11,7 +11,6 @@ def notifyme(title, message):
         timeout=10
     )
 
-
 def getData(url):
     r = requests.get(url)
     return r.text
